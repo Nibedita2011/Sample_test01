@@ -1,0 +1,3 @@
+ini file - check the ini files.
+tools - vbclient/exec/_ctron_   - look at all the tools
+Earl - he has done the customization.
